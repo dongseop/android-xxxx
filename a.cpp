@@ -1,1 +1,5 @@
-asdfasdf
+#include <stdio>
+
+main() {
+  
+}
